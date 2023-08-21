@@ -6,3 +6,5 @@ You can see the example [here](https://github.com/ViniciusBRodrigues/simple-tuft
 If you wnat to change the aspect ratio, just use:
 
 `\documentclass[aspectratio=169]{beamer}`
+
+Note: to use beramono font you should instal texlive-fonts-extra in Linux systems.
